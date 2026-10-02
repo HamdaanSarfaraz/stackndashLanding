@@ -5,12 +5,12 @@ function About() {
     <section id="about" className="about">
       <div className="container about-inner">
         <div className="about-content reveal">
-          <SectionLabel>About StashDash</SectionLabel>
+          <SectionLabel>About StashnDash</SectionLabel>
           <h2 className="section-title">
             We're building a simpler way to experience cities.
           </h2>
           <p className="section-subtitle">
-            StashDash is being built as an India-focused luggage-storage
+            StashnDash is being built as an India-focused luggage-storage
             marketplace. We believe that where you store your bags should never
             limit where your journey takes you.
           </p>

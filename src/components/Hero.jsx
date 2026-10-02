@@ -10,7 +10,7 @@ function Hero() {
             <span className="hero-accent">Keep exploring.</span>
           </h1>
           <p className="hero-text">
-            StashDash is building a network of convenient luggage-storage
+            StashnDash is building a network of convenient luggage-storage
             locations that lets travelers explore cities without carrying their
             bags everywhere.
           </p>

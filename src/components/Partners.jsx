@@ -54,7 +54,7 @@ function Partners() {
           <h2 className="section-title">Turn your space into a Stash Point.</h2>
           <p className="section-subtitle">
             Hotels, cafés, restaurants, supermarkets, retail stores and other
-            suitable establishments can be part of the StashDash network.
+            suitable establishments can be part of the StashnDash network.
           </p>
         </div>
 

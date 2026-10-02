@@ -4,7 +4,7 @@ const STEPS = [
   {
     number: '01',
     title: 'Find a Stash Point',
-    text: 'Locate a participating business near you on the StashDash network.',
+    text: 'Locate a participating business near you on the StashnDash network.',
     icon: (
       <svg viewBox="0 0 24 24" width="26" height="26" fill="none">
         <circle cx="11" cy="11" r="7" stroke="#F84464" strokeWidth="2" />

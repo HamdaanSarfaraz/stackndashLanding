@@ -25,7 +25,7 @@ function Contact() {
         <div className="contact-layout">
           <div className="contact-info reveal">
             <SectionLabel>Early Access</SectionLabel>
-            <h2 className="section-title">Be part of StashDash.</h2>
+            <h2 className="section-title">Be part of StashnDash.</h2>
             <p className="section-subtitle">
               We're still building. If you're a traveler, business owner,
               potential partner or simply interested in what we're creating,

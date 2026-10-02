@@ -47,7 +47,7 @@ function Navbar() {
       <div className="container navbar-inner">
         <a href="#home" className="navbar-logo" onClick={handleClick}>
           <span className="logo-mark">S</span>
-          <span className="logo-text">StashDash</span>
+          <span className="logo-text">StashnDash</span>
         </a>
 
         <nav className="navbar-links" aria-label="Main navigation">
