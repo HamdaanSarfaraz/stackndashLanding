@@ -34,7 +34,7 @@ const CARDS = [
       </svg>
     ),
     title: 'Between connections',
-    text: 'Several hours between trains or flights with nowhere to leave your bags.',
+    text: 'Several hours between trains or flights with nowhere to leave your bags.We gotchu!',
     statement: 'Turn the wait into a mini city adventure.',
   },
 ];
