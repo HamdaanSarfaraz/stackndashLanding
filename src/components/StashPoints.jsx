@@ -17,7 +17,7 @@ function StashPoints() {
             The places around you become part of your journey.
           </h2>
           <p className="section-subtitle">
-            StashnDash intends to connect travelers with participating businesses
+            StacknDash intends to connect travelers with participating businesses
             that can provide convenient luggage storage across the city.
           </p>
         </div>
@@ -28,7 +28,7 @@ function StashPoints() {
 
           <div className="network-center">
             <span className="logo-mark">S</span>
-            <span className="network-center-text">StashnDash</span>
+            <span className="network-center-text">StacknDash</span>
           </div>
 
           {NODES.map((node, i) => (

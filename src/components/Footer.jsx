@@ -15,7 +15,7 @@ function Footer() {
         <div className="footer-brand">
           <div className="navbar-logo">
             <span className="logo-mark">S</span>
-            <span className="logo-text">StashnDash</span>
+            <span className="logo-text">StacknDash</span>
           </div>
           <p className="footer-tagline">Drop your bags. Keep exploring.</p>
         </div>
@@ -29,7 +29,7 @@ function Footer() {
         </nav>
 
         <div className="footer-meta">
-          <span>© 2026 StashnDash</span>
+          <span>© 2026 StacknDash</span>
           <span>stashndash.com</span>
         </div>
       </div>

@@ -49,7 +49,7 @@ function Travelers() {
             Your luggage shouldn't decide your plans.
           </h2>
           <p className="section-subtitle">
-            Every traveler has faced these moments. StashnDash is designed to
+            Every traveler has faced these moments. StacknDash is designed to
             remove the burden of bags so you can make the most of your time.
           </p>
         </div>
